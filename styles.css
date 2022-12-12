@@ -128,12 +128,12 @@ span {
     border-radius: 8px;
     height: 56px;
     width: 140px;
-    margin-right: 10px;
+    margin-right: 10px;   
 }
 #event-data {
     width: 300px;
     height: 56px;
-    margin-right: 32px;    
+    margin-right: 32px;        
 }
 #event-time,
 #event-data {
